@@ -6,6 +6,18 @@ I‌‌ am intersted in learning in the field of computers, especially programmi
 
 I am new and have no real work experience, but I have been trained and pracitice well; I am enthusiastic and fast in learning new topics and committed to solving problems and tasks.
 
+
+### title
+
+  
+- 🔭 I’m currently working on Django Projecs
+- 🌱 I’m currently learning Django
+- 💬 Ask me about python, django , JavaScript
+- 📫 How to reach me: abbasalirezaei.79@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 <!--
 **abbasalirezaei/abbasalirezaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
