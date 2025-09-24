@@ -1,11 +1,7 @@
-
-
-
 ### Hi there 👋 , I am Abbasali Rezaei!
 
 ![Visit](https://komarev.com/ghpvc/?username=abbasalirezaei)
 
-🎓 CS graduate from Isfahan University
 💻 Backend Developer passionate about building clean, scalable, and high-performance systems
 
 🧠 I enjoy solving complex problems and optimizing databases to deliver robust APIs
