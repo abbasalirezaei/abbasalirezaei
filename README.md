@@ -6,17 +6,11 @@
 ![Visit](https://komarev.com/ghpvc/?username=abbasalirezaei)
 
 🎓 CS graduate from Isfahan University
-
 💻 Backend Developer passionate about building clean, scalable, and high-performance systems
-
 🧠 I enjoy solving complex problems and optimizing databases to deliver robust APIs
-
 🤝 Team player who thrives in agile environments and values collaboration and continuous learning
-
 🚀 Currently working with Django, DRF, Celery, and PostgreSQL
-
 🌱 Exploring FastAPI, async programming, and system design to expand my backend toolkit
-
 📫 Reach me at: abbasalirezaei.79@gmail.co
 
 
