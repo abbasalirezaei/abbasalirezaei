@@ -2,17 +2,13 @@
 
 ![Visit](https://komarev.com/ghpvc/?username=abbasalirezaei)
 
-💻 Backend Developer passionate about building clean, scalable, and high-performance systems
+Experienced Backend Developer with a passion for building clean, scalable, and high-performance systems using Python, Django, and Django REST Framework (DRF). I thrive on solving complex problems and optimizing databases to deliver efficient and robust APIs. As a collaborative and adaptable team player, I excel in agile environments where knowledge-sharing and continuous improvement are key. Eager to contribute my skills to impactful projects and grow as a software engineer.
 
-🧠 I enjoy solving complex problems and optimizing databases to deliver robust APIs
-
-🤝 Team player who thrives in agile environments and values collaboration and continuous learning
-
-🚀 Currently working with Django, DRF, Celery, and PostgreSQL
-
-🌱 Exploring FastAPI, async programming, and system design to expand my backend toolkit
-
-📫 Reach me at: abbasalirezaei.79@gmail.co
+-  🧠 I enjoy solving complex problems and optimizing databases to deliver robust APIs
+-  🤝 Team player who thrives in agile environments and values collaboration and continuous learning
+-  🚀 Currently working with Django, DRF, Celery, and PostgreSQL
+-  🌱 Exploring FastAPI, async programming, and system design to expand my backend toolkit
+-  📫 Reach me at: abbasalirezaei.79@gmail.co
 
 
 </br>
