@@ -5,14 +5,14 @@
 
 ![Visit](https://komarev.com/ghpvc/?username=abbasalirezaei)
 
-I graduated with a degree in Cs from Isfahan University.
-I‌‌ am interested in learning in the field of computers, especially programming.
-I am new and have no real work experience, but I have been trained and practiced well; I am enthusiastic and fast in learning new topics and committed to solving problems and tasks.
+🎓 CS graduate from Isfahan University
+💻 Backend Developer passionate about building clean, scalable, and high-performance systems
+🧠 I enjoy solving complex problems and optimizing databases to deliver robust APIs
+🤝 Team player who thrives in agile environments and values collaboration and continuous learning
+🚀 Currently working with Django, DRF, Celery, and PostgreSQL
+🌱 Exploring FastAPI, async programming, and system design to expand my backend toolkit
+📫 Reach me at: abbasalirezaei.79@gmail.co
 
-- 🔭 I’m currently working on Django projects
-- 🌱 I’m currently learning Django
-- 💬 Ask me about Python, Django, JavaScript
-- 📫 How to reach me: abbasalirezaei.79@gmail.com
 
 </br>
 <p align="center">
