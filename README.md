@@ -8,7 +8,7 @@ Experienced Backend Developer with a passion for building clean, scalable, and h
 -  🤝 Team player who thrives in agile environments and values collaboration and continuous learning
 -  🚀 Currently working with Django, DRF, Celery, and PostgreSQL
 -  🌱 Exploring FastAPI, async programming, and system design to expand my backend toolkit
--  📫 Reach me at: abbasalirezaei.79@gmail.co
+-  📫 Reach me at: abbasalirezaei.79@gmail.com
 
 
 </br>
