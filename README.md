@@ -2,13 +2,17 @@
 
 ![Visit](https://komarev.com/ghpvc/?username=abbasalirezaei)
 
-Experienced Backend Developer with a passion for building clean, scalable, and high-performance systems using Python, Django, and Django REST Framework (DRF). I thrive on solving complex problems and optimizing databases to deliver efficient and robust APIs. As a collaborative and adaptable team player, I excel in agile environments where knowledge-sharing and continuous improvement are key. Eager to contribute my skills to impactful projects and grow as a software engineer.
+Experienced ICT Specialist with a strong background in network infrastructure, system administration, and IT support across enterprise and industrial environments (oil & gas). Passionate about designing reliable networks, managing Windows Server infrastructures (Active Directory, DNS, DHCP), and ensuring high availability for critical services. Skilled in virtualization (VMware, Hyper-V), VoIP, CCTV, and network security. I enjoy automating routine tasks with Python and continuously exploring new tools to optimize infrastructure performance. A collaborative team player with experience in high-pressure environments, committed to knowledge sharing and operational excellence.
 
--  🧠 I enjoy solving complex problems and optimizing databases to deliver robust APIs
--  🤝 Team player who thrives in agile environments and values collaboration and continuous learning
--  🚀 Currently working with Django, DRF, Celery, and PostgreSQL
--  🌱 Exploring FastAPI, async programming, and system design to expand my backend toolkit 
--  📫 Reach me at: abbasalirezaei.79@gmail.com
+    🧠 I enjoy designing robust network infrastructures and solving complex IT challenges
+
+    🤝 Team player who thrives in collaborative environments and values continuous learning
+
+    🚀 Currently working with Cisco & MikroTik, Windows Server, VMware, and VoIP systems
+
+    🌱 Exploring Network Automation (Python, Netmiko) and Infrastructure as Code (Ansible)
+
+    📫 Reach me at: abbasalirezaei.79@gmail.com
 
 
 </br>
