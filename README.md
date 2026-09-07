@@ -1,17 +1,14 @@
 ### Hi there 👋 , I am Abbasali Rezaei!
+ICT Specialist | Network & System Administrator | Backend Developer
 
 ![Visit](https://komarev.com/ghpvc/?username=abbasalirezaei)
 
-Experienced ICT Specialist with a strong background in network infrastructure, system administration, and IT support across enterprise and industrial environments (oil & gas). Passionate about designing reliable networks, managing Windows Server infrastructures (Active Directory, DNS, DHCP), and ensuring high availability for critical services. Skilled in virtualization (VMware, Hyper-V), VoIP, CCTV, and network security. I enjoy automating routine tasks with Python and continuously exploring new tools to optimize infrastructure performance. A collaborative team player with experience in high-pressure environments, committed to knowledge sharing and operational excellence.
+ICT professional with over 3 years of experience in network infrastructure, system administration, and backend development. Currently managing enterprise networks (Cisco/MikroTik), Windows Server (AD, DNS, DHCP), virtualization (VMware, Hyper-V), and VoIP systems in the oil & gas industry. Alongside networking, I have a solid background in Python, Django, and automation, bridging the gap between infrastructure and software development. Passionate about network automation, infrastructure reliability, and building scalable solutions. Adaptable team player with a growth mindset and a knack for problem-solving.
 
-    🧠 I enjoy designing robust network infrastructures and solving complex IT challenges
-
-    🤝 Team player who thrives in collaborative environments and values continuous learning
-
-    🚀 Currently working with Cisco & MikroTik, Windows Server, VMware, and VoIP systems
-
-    🌱 Exploring Network Automation (Python, Netmiko) and Infrastructure as Code (Ansible)
-
+    🧠 I enjoy bridging the gap between infrastructure and software through automation
+    🤝 Collaborative team player with experience in industrial and agile environments
+    🚀 Currently working with Cisco, MikroTik, Windows Server, VMware, and VoIP
+    🌱 Exploring Network Automation (Python, Ansible) and Infrastructure as Code
     📫 Reach me at: abbasalirezaei.79@gmail.com
 
 
